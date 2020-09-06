@@ -21,7 +21,8 @@ This will install Git
 >  apt install git
 This will clone the repository
 
-> git clone https://github.com/TermuxHackz/BlackPhish
+> git clone https://github.com/TermuxHackz/AdminPhish
+
 Change into BlackPhish directory
 
 > cd BlackPhish
