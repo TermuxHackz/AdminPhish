@@ -25,7 +25,7 @@ This will clone the repository
 
 Change into BlackPhish directory
 
-> cd BlackPhish
+> cd AdminPhish
 
 Run the Installation File
 
@@ -33,7 +33,7 @@ Run the Installation File
 
 # Usage
 
-> python3 blackphish.py
+> python3 blackPhish.py
 
 # Update
 
